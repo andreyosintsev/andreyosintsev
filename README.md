@@ -22,3 +22,4 @@
 
 ## Бейджи-статы
 [![codewars](https://www.codewars.com/users/kintarosmr/badges/large)](https://www.codewars.com/users/kintarosmr)   
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
