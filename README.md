@@ -21,4 +21,4 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Бейджи-статы
-[![codewars](https://www.codewars.com/users/kintarosmr/badges/small)](https://www.codewars.com/users/kintarosmr)   
+[![codewars](https://www.codewars.com/users/kintarosmr/badges/large)](https://www.codewars.com/users/kintarosmr)   
