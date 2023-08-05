@@ -1,8 +1,7 @@
 ### Всем привет! 👋
 
 Я - Web-разработчик из Самары.
-<a href="https://www.codewars.com/users/kintarosmr/badges/large">
-</a>
+[![codewars](https://www.codewars.com/users/kintarosmr/badges/large)](https://www.codewars.com/users/kintarosmr)   
 
 ## Стек технологий
 
