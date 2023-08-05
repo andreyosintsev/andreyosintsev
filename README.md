@@ -1,16 +1,35 @@
-### Hi there 👋
+### Всем привет! 👋
 
-<!--
-**andreyosintsev/andreyosintsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я - Web-разработчик из Самары.
+<a href="https://www.codewars.com/users/kintarosmr/badges/large">
+</a>
 
-Here are some ideas to get you started:
+## Стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>HTML/CSS</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>Promises</li>
+<li>React</li>
+<li>Redux</li>
+<li>Fetch API</li>
+<li>WebSocket</li>
+<li>Cookies</li>
+<li>LocalStorage</li>
+<li>Middleware API</li>
+<li>Webpack</li>
+<li>Git</li>
+</ul>
+
+### Тестирование:
+<ul>
+<li>Jest (юнит-тесты)</li>
+<li>Cypress (интеграционное e2e-тестирование)</li>
+</ul>
+
+### Инструменты:
+<ul>
+<li>Microsoft Visual Studio Code</li>
+<li>Microsoft Visual Studio 2022</li>
+</ul>
